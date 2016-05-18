@@ -4,4 +4,8 @@
   <artifactId>TestWebApp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  
+  <build>
+  	<finalName>TestWebApp</finalName>
+  </build>
 </project>
